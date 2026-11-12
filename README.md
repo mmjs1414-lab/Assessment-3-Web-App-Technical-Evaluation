@@ -163,6 +163,6 @@ GeeksforGeeks. (2026a, March 18). Building a carousel with vanilla JavaScript. h
 
 GeeksforGeeks. (2026b, June 1). Generate random number in given range using JavaScript. https://www.geeksforgeeks.org/javascript/how-to-generate-random-number-in-given-range-using-javascript/
 
-OpenAI. (2025, August 21). High school grammar concepts [Generative AI chat]. ChatGPT. https://chatgpt.com/share/68a77b60-0ee4-800c-9acc-cd3fd573c311
+OpenAI. (2026). ChatGPT [Large language model]. https://chatgpt.com/
 
 Tailwind CSS. (n.d.). Styling with utility classes. Retrieved October 9, 2026, from https://tailwindcss.com/docs/styling-with-utility-classes
