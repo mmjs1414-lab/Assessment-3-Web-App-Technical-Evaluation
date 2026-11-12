@@ -146,6 +146,9 @@ In addition, the search code has its limitations, as **`.filter()`** and **`.inc
 
 I overlooked basic HTML elements such as the **`<title>`** tag because I focused mostly on JavaScript. An HTML validator would have helped me identify these issues. I was also satisfied with how the interface looked on my screen until I noticed that elements such as the carousel arrow buttons appeared differently on other screens. I would fix this with CSS and pay more attention to testing across different screen sizes.
 
+![LobbyArch Issue Example](Example%20screenshot.png)
+Example of duplicate lobby cards appearing across the main carousel and More Like This sections.
+
 ## Conclusion 
 
 LobbyArch progressed through design decisions and problem-solving, improving my understanding of JavaScript, API data and error handling. If I continued the project, I would spend more time evaluating the browsing structure to improve usability and functionality. Another priority would be following industry-standard coding practices and reviewing GenAI-generated code to better fit my application.
