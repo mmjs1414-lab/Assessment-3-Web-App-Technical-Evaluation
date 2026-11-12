@@ -1,6 +1,6 @@
 # Assessment-3-Web-App-Technical-Evaluation
 
-
+![LobbyArch screenshot](LobbyArch%20Screenshot.png)
 
 ## Introduction 
 
